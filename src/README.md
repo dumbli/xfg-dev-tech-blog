@@ -22,12 +22,12 @@ highlights:
     bgImage: /assets/bg/6-light.svg
     bgImageDark: /assets/bg/6-dark.svg
     features:
-      - title: 公众号 - 抽奖系统
+      - title: Easy OJ
         icon: comment-dots
         details: 23年1月，以DDD领域驱动设计架构，开发完成分布式抽奖系统。运用了全面的分布式技术栈。
         link: https://theme-hope.vuejs.press/zh/guide/markdown/others.html#link-check
 
-      - title: 手写 MyBatis
+      - title: 动态线程池
         icon: box-archive
         details: 23年4月，深度学习《手写MyBatis：渐进式源码实践》一书，完整实现了一个 MyBatis ORM 框架。
         link: https://theme-hope.vuejs.press/zh/guide/markdown/container.html
